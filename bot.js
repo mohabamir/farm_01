@@ -243,7 +243,7 @@ message.channel.send('#daily')
   if(message.content === '$c'){
 message.channel.send('#credits')
   }
-  if(message.content.startsWith("$s")) {
+  if(message.content.startsWith("25S")) {
     var text = message.content.split(' ').slice(1).join(' ');
      message.channel.send(text);
   }
@@ -369,10 +369,10 @@ message.channel.send('#credits')
 
 
 client.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === '$nospam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000; x++) {
+      for(let x = 0; x < 3000; x++) {
         message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -383,7 +383,7 @@ if (message.content === '$spam') {
 });
 
 client2.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === '$nospam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 3000; x++) {
@@ -397,7 +397,7 @@ if (message.content === '$spam') {
 });
 
 client3.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === '$nospam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 3000; x++) {
@@ -411,7 +411,7 @@ if (message.content === '$spam') {
 });
 
 client4.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === '$nospam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 3000; x++) {
@@ -425,7 +425,7 @@ if (message.content === '$spam') {
 });
 
 client5.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === '$nospam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 3000; x++) {
@@ -439,7 +439,7 @@ if (message.content === '$spam') {
 });
 
 client6.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === '$nospam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 3000; x++) {
