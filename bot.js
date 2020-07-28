@@ -369,7 +369,7 @@ message.channel.send('#credits')
 
 
 client.on('message', message => {
-if (message.content === '$nospam') {
+if (message.content === '$nspam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 3000; x++) {
@@ -383,7 +383,7 @@ if (message.content === '$nospam') {
 });
 
 client2.on('message', message => {
-if (message.content === '$nospam') {
+if (message.content === '$nspam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 3000; x++) {
@@ -397,7 +397,7 @@ if (message.content === '$nospam') {
 });
 
 client3.on('message', message => {
-if (message.content === '$nospam') {
+if (message.content === '$nspam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 3000; x++) {
@@ -411,7 +411,7 @@ if (message.content === '$nospam') {
 });
 
 client4.on('message', message => {
-if (message.content === '$nospam') {
+if (message.content === '$nspam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 3000; x++) {
@@ -425,7 +425,7 @@ if (message.content === '$nospam') {
 });
 
 client5.on('message', message => {
-if (message.content === '$nospam') {
+if (message.content === '$nspam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 3000; x++) {
@@ -439,7 +439,7 @@ if (message.content === '$nospam') {
 });
 
 client6.on('message', message => {
-if (message.content === '$nospam') {
+if (message.content === '$nspam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 3000; x++) {
