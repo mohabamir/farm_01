@@ -11,7 +11,7 @@ const client6 = new Discord.Client();
 
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//POULAZ
 
-client.login("");
+client.login("NzE3MTMyNjc2NDk4NDU2NjQ3.XyX6Qw.DKD8HFMyCAm62nK9nCDloQSBCjw");
 client2.login("");
 client3.login("");
 client4.login("");
